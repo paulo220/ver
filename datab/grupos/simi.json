@@ -1,0 +1,43 @@
+[
+    {
+        "msg": "oi oi",
+        "messages": []
+    },
+    {
+        "msg": "ta bem?",
+        "messages": [
+            "sim ir vc"
+        ]
+    },
+    {
+        "msg": "sim ir vc",
+        "messages": [
+            "neutro"
+        ]
+    },
+    {
+        "msg": "neutro",
+        "messages": [
+            "como assim",
+            "sem e voci?"
+        ]
+    },
+    {
+        "msg": "como assim",
+        "messages": [
+            "negócio de baitola"
+        ]
+    },
+    {
+        "msg": "tô brincando caraí kkkkk",
+        "messages": []
+    },
+    {
+        "msg": "crtz que ia militar",
+        "messages": []
+    },
+    {
+        "msg": "kkkkk",
+        "messages": []
+    }
+]
